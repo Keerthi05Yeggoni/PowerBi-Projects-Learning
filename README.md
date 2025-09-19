@@ -72,8 +72,8 @@ Forecasting predicts a steady rise in sales over the next 15 days.
 To explore this project on your system:
 
 1️) Clone the repository
-git clone https://github.com/your-username/Sales-Store-Analysis.git
-cd Sales-Store-Analysis
+git clone https://github.com/Keerthi05Yeggoni/PowerBi-Projects-Learning.git
+cd PowerBi-Projects-Learning
 
 2️) Open the dataset
 
